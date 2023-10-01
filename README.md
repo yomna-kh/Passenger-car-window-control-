@@ -1,6 +1,6 @@
 # Passenger-car-window-control-
 
-This README provides an overview of the project scope and its basic features. It outlines the implementation requirements and functionality of the front passenger door window control system.
+This README provides an overview of the project scope and its basic features. It outlines the implementation requirements and functionality of the front passenger door window control system using TivaC
 
 # Project Scope:
 The project aims to implement a front passenger door window control system with both passenger and driver control panels. The implementation should include the use of FreeRTOS, limit switches to restrict the window motor's movement, and obstacle detection to prevent jamming. The highlighted areas in red on the provided figure represent the specific components of the car to be implemented.
